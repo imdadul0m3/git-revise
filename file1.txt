@@ -4,3 +4,4 @@ file
 file 1 added new data.
 this is the third line.
 logo
+fix.
